@@ -39,18 +39,13 @@ This project demonstrates a real-world Security Operations Center (SOC) investig
 ## 📸 Evidence
 
 ### 🖥️ Host Identification (DHCP)
-![DHCP](dhcp.png)
+![DHCP](Host%20Name.png)
 
 ### 🌐 Malicious Domain (DNS)
-![DNS](dns.png)
+![DNS](DNS.png)
 
 ### 👤 User Identification (Kerberos)
-![Kerberos](kerberos.png)
-
-### 👤 User Identification (Kerberos)
-
-![Kerberos](kerberos.png)
-
+![Kerberos](USERNAME.png)
 ---
 
 ## 🧠 Skills Demonstrated
